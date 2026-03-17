@@ -65,4 +65,4 @@ hostname=$(hostname)
 # Output the URL to access SearXNG
 echo "SearXNG is running. Access it at http://$hostname:8888/"
 
-# Credit to the original file https://gist.github.com/ParkWardRR/602e01042aceedc882972bb3ec5c1e4f
+# Credit to the original file owner https://gist.github.com/ParkWardRR/602e01042aceedc882972bb3ec5c1e4f
